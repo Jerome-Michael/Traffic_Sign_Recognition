@@ -1,4 +1,4 @@
-# German Traffic Sign Recognition
+# Traffic Sign Recognition
 
 In this project, I've built and trained a deep neural network to classify German traffic signs using Tensorflow.
 
