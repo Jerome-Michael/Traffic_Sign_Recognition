@@ -102,7 +102,7 @@ Our model is adapted from the LeNet as follows.
 
 ### Confusion Matrix
 
-<img src="images/confusion_matrix2.png" width="600"/>
+<img src="images/Confusion_matrix2.png" width="600"/>
 
 
 # Test a Model on New Images
